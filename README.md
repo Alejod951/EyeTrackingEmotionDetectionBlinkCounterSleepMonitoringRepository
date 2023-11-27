@@ -1,6 +1,6 @@
 # EyeTrackingEmotionDetectionBlinkCounterSleepMonitoring
 
-Este repositorio contiene un sistema de seguimiento de ojos, detección de emociones, conteo de parpadeos y monitoreo de micro sueños desarrollado en Python para la plataforma de inteligencia artificial Mindware ROS2 Foxy.
+Este repositorio contiene un sistema de seguimiento de ojos, detección de emociones, conteo de parpadeos y monitoreo de micro sueños desarrollado en Python para la plataforma de Mindware ROS2 Foxy.
 
 ## Dependencias
 
@@ -15,7 +15,7 @@ Asegúrate de tener instaladas las siguientes dependencias antes de ejecutar el 
 Puedes instalar estas dependencias utilizando pip:
 
 ```bash
-pip install mediapipe opencv-python numpy cv-bridge
+pip install mediapipe opencv-python numpy
 ```
 
 Asegúrate de tener instalado Python en tu entorno y todas las dependencias mencionadas anteriormente.
